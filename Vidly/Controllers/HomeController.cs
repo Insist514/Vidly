@@ -18,6 +18,7 @@ namespace Vidly.Controllers
             ViewBag.Message = "Your application description page.";
 
             return View();
+            //gg
         }
 
         public ActionResult Contact()
